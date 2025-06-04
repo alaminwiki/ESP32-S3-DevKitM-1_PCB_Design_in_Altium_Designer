@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+VCC_FTDI Pin=C4-2
+Added Pin To Net: NetName=+VCC_FTDI Pin=C5-2
+Added Pin To Net: NetName=+3V3_FTDI Pin=C7-2
+Added Pin To Net: NetName=+3V3_FTDI Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=+5V_VBUS2 Pin=C10-2
+Added Pin To Net: NetName=+3V3_REG Pin=C11-2
+Added Pin To Net: NetName=+3V3_REG Pin=C12-2
+Added Pin To Net: NetName=+5V Pin=C13-2
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=+3V3 Pin=C15-2
+Added Pin To Net: NetName=CHIP_PU Pin=C16-2
+Added Pin To Net: NetName=BTN_GPIO0 Pin=C17-2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R11-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-11
+Added Net: Name=NetC6_2

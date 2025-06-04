@@ -1,0 +1,141 @@
+# Created by Ultra Librarian 8.3.367 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "2171790001_MOL")
+Pad (Name "A1/B12") (Location -125.9843, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 24, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "A4/B9") (Location -94.4882, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 24, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "A5") (Location -49.2126, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "A6") (Location -9.8425, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "A7") (Location 9.8425, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "A8") (Location 49.2126, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "B4/A9") (Location 94.4882, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 24, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "B1/A12") (Location 125.9842, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 24, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "B5") (Location 68.9, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "B6") (Location 29.5299, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "13") (Location -170.07875061, -50.07090759) (Slotted True) (SlotWidth 71) (SlotHeight 24 (Surface True) (Rotation 0) (ExpandMask -43.5) (ExpandPaste -43.5)
+PadShape (Size 39, 87) (Shape Rounded) (Layer Top)
+PadShape (Size 39, 87) (Shape Rounded) (Layer MidLayer1))
+EndPad
+Pad (Name "14") (Location 170.07875061, -50.07090759) (Slotted True) (SlotWidth 71) (SlotHeight 24 (Surface True) (Rotation 0) (ExpandMask -43.5) (ExpandPaste -43.5)
+PadShape (Size 39, 87) (Shape Rounded) (Layer Top)
+PadShape (Size 39, 87) (Shape Rounded) (Layer MidLayer1))
+EndPad
+Pad (Name "15") (Location -170.07875061, 107.40945053) (Slotted True) (SlotWidth 55) (SlotHeight 24 (Surface True) (Rotation 0) (ExpandMask -35.5) (ExpandPaste -35.5)
+PadShape (Size 39, 71) (Shape Rounded) (Layer Top)
+PadShape (Size 39, 71) (Shape Rounded) (Layer MidLayer1))
+EndPad
+Pad (Name "16") (Location 170.07875061, 107.40945053) (Slotted True) (SlotWidth 55) (SlotHeight 24 (Surface True) (Rotation 0) (ExpandMask -35.5) (ExpandPaste -35.5)
+PadShape (Size 39, 71) (Shape Rounded) (Layer Top)
+PadShape (Size 39, 71) (Shape Rounded) (Layer MidLayer1))
+EndPad
+Pad (Name "B7") (Location -29.5251975, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "B8") (Location -68.8952975, 130.0472) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 12, 45) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -199.57875061, -103.57090759) (End -186, -103.57090759) (Layer Mechanical15) 
+Line (Width 6) (Start -186, -103.57090759) (End -186, -143) (Layer Mechanical15) 
+Line (Width 6) (Start -186, -143) (End 186, -143) (Layer Mechanical15) 
+Line (Width 6) (Start 186, -143) (End 186, -103.57090759) (Layer Mechanical15) 
+Line (Width 6) (Start 186, -103.57090759) (End 199.57875061, -103.57090759) (Layer Mechanical15) 
+Line (Width 6) (Start 199.57875061, -103.57090759) (End 199.57875061, 3.42909241) (Layer Mechanical15) 
+Line (Width 6) (Start 199.57875061, 3.42909241) (End 186, 3.42909241) (Layer Mechanical15) 
+Line (Width 6) (Start 186, 3.42909241) (End 186, 61.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start 186, 61.90945053) (End 199.57875061, 61.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start 199.57875061, 61.90945053) (End 199.57875061, 152.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start 199.57875061, 152.90945053) (End 147.9842, 152.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start 147.9842, 152.90945053) (End 147.9842, 162.5472) (Layer Mechanical15) 
+Line (Width 6) (Start 147.9842, 162.5472) (End -147.9843, 162.5472) (Layer Mechanical15) 
+Line (Width 6) (Start -147.9843, 162.5472) (End -147.9843, 152.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start -147.9843, 152.90945053) (End -199.57875061, 152.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start -199.57875061, 152.90945053) (End -199.57875061, 61.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start -199.57875061, 61.90945053) (End -186, 61.90945053) (Layer Mechanical15) 
+Line (Width 6) (Start -186, 61.90945053) (End -186, 3.42909241) (Layer Mechanical15) 
+Line (Width 6) (Start -186, 3.42909241) (End -199.57875061, 3.42909241) (Layer Mechanical15) 
+Line (Width 6) (Start -199.57875061, 3.42909241) (End -199.57875061, -103.57090759) (Layer Mechanical15) 
+Polygon (PointCount 20) (Layer Mechanical15) 
+Point (-186, -143)
+Point (186, -143)
+Point (186, -103.57090759)
+Point (199.57875061, -103.57090759)
+Point (199.57875061, 3.42909241)
+Point (186, 3.42909241)
+Point (186, 61.90945053)
+Point (199.57875061, 61.90945053)
+Point (199.57875061, 152.90945053)
+Point (147.9842, 152.90945053)
+Point (147.9842, 162.5472)
+Point (-147.9843, 162.5472)
+Point (-147.9843, 152.90945053)
+Point (-199.57875061, 152.90945053)
+Point (-199.57875061, 61.90945053)
+Point (-186, 61.90945053)
+Point (-186, 3.42909241)
+Point (-199.57875061, 3.42909241)
+Point (-199.57875061, -103.57090759)
+Point (-186, -103.57090759)
+EndPolygon
+Line (Width 6) (Start -181, -138) (End 181, -138) (Layer TopOverlay) 
+Line (Width 6) (Start 181, -138) (End 181, -104.78713029) (Layer TopOverlay) 
+Line (Width 6) (Start -181, -104.78713029) (End -181, -138) (Layer TopOverlay) 
+Line (Width 6) (Start -181, 60.69322784) (End -181, 4.6453151) (Layer TopOverlay) 
+Line (Width 6) (Start 181, 4.6453151) (End 181, 60.69322784) (Layer TopOverlay) 
+Text (Location -238.48429871, 105.04724407) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Line (Width 1) (Start -176, -133) (End 176, -133) (Layer Mechanical13) 
+Line (Width 1) (Start 176, -133) (End 176, 133) (Layer Mechanical13) 
+Line (Width 1) (Start 176, 133) (End -176, 133) (Layer Mechanical13) 
+Line (Width 1) (Start -176, 133) (End -176, -133) (Layer Mechanical13) 
+Line (Width 1) (Start 0, 133) (End 0, 133) (Layer Mechanical13) 
+Line (Width 1) (Start 0, 133) (End 0, 133) (Layer Mechanical13) 
+Line (Width 1) (Start 0, 133) (End 0, 133) (Layer Mechanical13) 
+Line (Width 1) (Start 0, 133) (End 0, 133) (Layer Mechanical13) 
+Text (Location -238.48429871, 105.04724407) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "2171790001") (PartCount 1) (DesPrefix "J?")
+Pin (Location 300, 0) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "A5") (Name Visible "CC1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "A6") (Name Visible "DP1") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "A7") (Name Visible "DN1") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "A8") (Name Visible "SBU1") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 300, -400) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "B5") (Name Visible "CC2") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 300, -500) (Rotation 180) (PinType IO) (Length 300) (Width 0) (Designator Visible "B6") (Name Visible "DP2") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 1300, -500) (Rotation 0) (PinType IO) (Length 300) (Width 0) (Designator Visible "B7") (Name Visible "DN2") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 1300, -400) (Rotation 0) (PinType IO) (Length 300) (Width 0) (Designator Visible "B8") (Name Visible "SBU2") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Pin (Location 1300, -300) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "A4/B9") (Name Visible "VBUS") (PinSwap 0) (PartSwap 0) (PinSeq 9) (Part 1)
+Pin (Location 1300, -200) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "B4/A9") (Name Visible "VBUS") (PinSwap 0) (PartSwap 0) (PinSeq 10) (Part 1)
+Pin (Location 1300, -100) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "A1/B12") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 11) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "B1/A12") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 12) (Part 1)
+Rectangle (Width 5) (Start 300, -700) (End 1300, 200) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Molex Connector Corporation") (Part 1)
+Parameter (Name "RefDes") (Location 800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "2171790001_MOL")
+EndComponent
+EndComponents

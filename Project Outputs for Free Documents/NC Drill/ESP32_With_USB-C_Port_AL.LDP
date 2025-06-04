@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Altium Project\Alamin_Project_Esp32_Board\ESP32_With_USB-C_Port\ESP32_With_USB-C_Port_AL.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32_with_usb-c_port_al-roundholes.txt|DrillLayers=gtl,g1,gp1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32_with_usb-c_port_al-slotholes.txt|DrillLayers=gtl,g1,gp1,gbl
